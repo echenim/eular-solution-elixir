@@ -1,7 +1,7 @@
 {application,eulars,
              [{applications,[kernel,stdlib,elixir,logger]},
               {description,"eulars"},
-              {modules,['Elixir.Eulars','Elixir.Factorial',
+              {modules,['Elixir.Eulars','Elixir.Factorial','Elixir.Fibonacci',
                         'Elixir.FindGreatestCommonDivisor',
                         'Elixir.Recursion']},
               {registered,[]},
